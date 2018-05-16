@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileStorage</string>
+    <string name="file_path">file.txt</string>
+</resources>
